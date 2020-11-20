@@ -1,0 +1,12 @@
+{
+  "extracts": [
+    {
+      "output": "tehran.osm.pbf",
+      "input": ""
+      "output_format": "pbf",
+      "description": "single bbox extract of tehran",
+      "bbox":[51.247101, 35.614884, 51.564331, 35.775486]
+    },
+  ],
+  "directory": "/tmp/"
+}
